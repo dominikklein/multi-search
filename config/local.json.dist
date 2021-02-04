@@ -1,0 +1,13 @@
+{
+    "searchEngines": {
+        "Google": {
+            "baseUrl": "https://www.googleapis.com/customsearch/v1",
+            "apiKey": "YOUR_API_KEY",
+            "searchEngineID": "YOUR_SEARCH_ENGINE_ID"
+        },
+        "Bing": {
+            "baseUrl": "https://api.bing.microsoft.com/v7.0/search",
+            "apiKey": "YOUR_SUBSCRIPTION_ID"
+        }
+    }
+}
